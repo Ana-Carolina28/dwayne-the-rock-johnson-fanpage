@@ -113,7 +113,7 @@ O objetivo principal foi testar e estressar as capacidades de prototipagem rápi
 ║ Porção: 1 Repositório Completo                 ║
 ╠═════════════════════════════════════════════════╣
 ║ Disciplina & Foco .................... 100%    ║
-║ Café Preto às 04:00 AM ............... 400mg   ║
+║ Água Gelada & Eletrólitos ............ 3 Litros ║
 ║ Calorias no Domingo de Cheat Day ..... 12.000  ║
 ║ Elevação de Sobrancelha .............. 45°     ║
 ║ Gramas de Proteína Teórica ........... 850g    ║
@@ -156,6 +156,6 @@ Este projeto foi criado exclusivamente para **fins educacionais e de entretenime
 
 *"Success isn't always about greatness. It's about consistency. Consistent hard work leads to success."* — **Dwayne Johnson**
 
-Feito com ⚡ e muito café.
+Feito com ⚡, muito Mana e água bem gelada.
 
 </div>

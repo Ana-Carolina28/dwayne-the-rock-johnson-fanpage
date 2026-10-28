@@ -198,7 +198,7 @@ export const CHEAT_MEAL_PRESETS: CheatMealPreset[] = [
   {
     id: 'colossus',
     title: 'O Colosso dos Deuses',
-    description: 'O clássico café da manhã pós-treino de domingo: 12 panquecas gigantes + 8 rabanadas + sorvete.',
+    description: 'O colossal banquete matinal pós-treino de domingo: 12 panquecas gigantes + 8 rabanadas + sorvete.',
     totalCalories: 8400,
     items: ['pancakes', 'french_toast', 'icecream'],
     rockVerdict: 'Excelente! A insulina vai ao teto, mas o Mana nas pernas na segunda-feira será devastador.'
