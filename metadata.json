@@ -1,0 +1,6 @@
+{
+  "name": "The Rock • The Electrifying Fan Experience",
+  "description": "Fan page definitiva e interativa de Dwayne 'The Rock' Johnson com modo diurno/noturno, simulador da People's Eyebrow, gerador de Cheat Meal, rotinas da Iron Paradise e tributo bem-humorado desenvolvido no Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
